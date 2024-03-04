@@ -35,5 +35,5 @@ import React from 'react';
     </div>
   </div>
 </nav>
-
+export default Navbar;
 
